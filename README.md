@@ -4,9 +4,9 @@
 
 ## 作成済みページ
 
-- プライバシーポリシー: `docs/privacy-policy/index.html`
-- サポート: `docs/support/index.html`
 - 入口ページ: `docs/index.html`
+- プライバシーポリシー・免責事項: `docs/privacy-policy/index.html`
+- サポート（Google Forms埋め込み）: `docs/support/index.html`
 
 ## 公開手順（GitHub Pages）
 
@@ -21,8 +21,12 @@
 
 - Privacy Policy URL: `https://<GitHubユーザー名>.github.io/axiv-pages/privacy-policy/`
 - Support URL: `https://<GitHubユーザー名>.github.io/axiv-pages/support/`
+- （任意）Marketing URL: `https://<GitHubユーザー名>.github.io/axiv-pages/`
 
-## 置き換えが必要な箇所
+## お問い合わせ
 
-連絡先メール: `axiv.app.contact@gmail.com`
+- 連絡先メール: `axiv.app.contact@gmail.com`
+- お問い合わせフォーム（Google Forms）: `https://forms.gle/Y2VbiZXcZhMuUe1b6`
+
+※ サポートページでは Google Forms をページ内に埋め込み表示し、表示できない場合のリンクも用意しています。
 
